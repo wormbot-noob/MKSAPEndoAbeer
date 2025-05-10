@@ -1,0 +1,1 @@
+export default function HighYieldQuiz() { return <div className='p-4'>[Quiz content was previously injected here]</div>; }

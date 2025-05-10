@@ -1,0 +1,1 @@
+import React from 'react'; import ReactDOM from 'react-dom/client'; import HighYieldQuiz from './HighYieldQuiz'; ReactDOM.createRoot(document.getElementById('root')).render(<HighYieldQuiz />);
